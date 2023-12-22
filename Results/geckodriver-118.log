@@ -1,0 +1,21 @@
+1703000120829	geckodriver	INFO	Listening on 127.0.0.1:57847
+1703000123909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Romuald\\AppData\\Local\\Temp\\rust_mozprofilecLtgXr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703000124114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703000124178	Marionette	INFO	Listening on port 57857
+WebDriver BiDi listening on ws://127.0.0.1:57848
+Read port: 57857
+1703000124294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57848/devtools/browser/267a9087-4e8c-4e7e-829b-950aa70ea448
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1703000154532	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1703000194915	Marionette	INFO	Stopped listening on port 57857
+Dynamically enable window occlusion 1

@@ -1,0 +1,18 @@
+1703240423852	geckodriver	INFO	Listening on 127.0.0.1:51952
+1703240426911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Romuald\\AppData\\Local\\Temp\\rust_mozprofilecFWcwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703240427120	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703240427184	Marionette	INFO	Listening on port 51962
+WebDriver BiDi listening on ws://127.0.0.1:51953
+Read port: 51962
+1703240427300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51953/devtools/browser/c1f88f70-23fd-4223-85de-ed466092030f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1703240438258	Marionette	INFO	Stopped listening on port 51962
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449, line 115: Script terminated by timeout at:
+821/tl/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172452
+
+Dynamically enable window occlusion 1

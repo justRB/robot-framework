@@ -1,0 +1,22 @@
+1702986176562	geckodriver	INFO	Listening on 127.0.0.1:51694
+1702986179628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Romuald\\AppData\\Local\\Temp\\rust_mozprofilefVdaoM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702986179848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702986179917	Marionette	INFO	Listening on port 51705
+WebDriver BiDi listening on ws://127.0.0.1:51695
+Read port: 51705
+1702986180042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51695/devtools/browser/674b76cc-967d-415e-87c7-1c2e8cffe635
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702986210296	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Romuald\AppData\Local\Temp\rust_mozprofilefVdaoM\bookmarkbackups\bookmarks-2023-12-19.jsonlz4) because it does not exist
+1702990065239	Marionette	INFO	Stopped listening on port 51705
+Dynamically enable window occlusion 1

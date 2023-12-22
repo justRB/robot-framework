@@ -1,0 +1,17 @@
+1702895308969	geckodriver	INFO	Listening on 127.0.0.1:58571
+1702895312043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Romuald\\AppData\\Local\\Temp\\rust_mozprofile6C6cCL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702895312257	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702895312326	Marionette	INFO	Listening on port 58584
+WebDriver BiDi listening on ws://127.0.0.1:58572
+Read port: 58584
+1702895312447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58572/devtools/browser/57387c4d-8256-4977-9fdd-ec53d8f48efc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1702895342284	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702895570493	Marionette	INFO	Stopped listening on port 58584
+Dynamically enable window occlusion 1
