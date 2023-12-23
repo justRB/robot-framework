@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"level":30,"time":"2023-12-18T10:40:20.825Z","pid":25744,"hostname":"Bastien","msg":"Listening on 60294"}
 {"level":30,"time":"2023-12-18T10:40:20.984Z","pid":25744,"hostname":"Bastien","msg":"Start of node method getBrowserCatalog"}
 {"level":30,"time":"2023-12-18T10:40:20.985Z","pid":25744,"hostname":"Bastien","msg":"End of node method getBrowserCatalog"}
@@ -44,3 +45,32 @@
 {"level":30,"time":"2023-12-18T10:40:22.366Z","pid":25744,"hostname":"Bastien","msg":"End of node method getBrowserCatalog"}
 {"level":30,"time":"2023-12-18T10:40:22.404Z","pid":25744,"hostname":"Bastien","msg":"Start of node method closeAllBrowsers"}
 {"level":30,"time":"2023-12-18T10:40:22.523Z","pid":25744,"hostname":"Bastien","msg":"End of node method closeAllBrowsers"}
+=======
+{"level":30,"time":"2023-12-18T10:10:40.066Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"Listening on 57927"}
+{"level":30,"time":"2023-12-18T10:10:40.253Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-18T10:10:40.254Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-18T10:10:40.256Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-18T10:10:40.256Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\index.js:9968:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\index.js:10588:59)
+    at PlaywrightServer.setTimeout (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\index.js:10838:57)
+    at handleUnary (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:852:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2023-12-18T10:10:40.279Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-18T10:10:40.279Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\index.js:9968:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\index.js:10588:59)
+    at PlaywrightServer.setTimeout (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\index.js:10838:57)
+    at handleUnary (C:\Users\Romuald\Documents\OpenCampus\troisiemeAnnee\test_automatisation\evaluation\BeginnersGuide\.venv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:852:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2023-12-18T10:10:40.298Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-18T10:10:40.298Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-18T10:10:40.327Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-12-18T10:10:40.327Z","pid":11412,"hostname":"LAPTOP-EGI82HD4","msg":"End of node method closeAllBrowsers"}
+>>>>>>> 7d52429b1330ad316598b5d27f8f9c3c7c50ed96
